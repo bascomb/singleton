@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f78ea7c-a5ff-4756-99bd-10684cb222a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bascomb/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bascomb/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/bascomb/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bascomb/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bascomb/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bascomb/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bascomb/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/bascomb/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bascomb/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bascomb/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bascomb/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/bascomb/AppTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -168,6 +173,32 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bascomb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="singleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="singleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="singleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="singleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="bascomb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
